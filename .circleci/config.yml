@@ -1,0 +1,5 @@
+
+string=str(input())
+a=string.replace('-',' ')
+b=a.replace('_',' ')
+print(b.lower())2.
